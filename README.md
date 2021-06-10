@@ -2,8 +2,8 @@
 
 Responsive Simple Dashboard UI with Side Nav bar and collapsible menu.
 
-### Installation
-1. Run Yarn Install
+### Installation 
+1. Execute command `yarn install` in root of the project to install dependencies.
 yarn install
 
 2. Execute below list of commands as required:
@@ -28,22 +28,11 @@ yarn install
 -   `yarn docker-update-deps` to remove and rebuild the container image with updated dependencies
 -   `yarn docker-exec` to open an interactive ash shell inside the container
 
-
 ### Execution
 Excute below command inside root folder.
 
 `yarn dist`
 `yarn watch`
-
-
-## Simple-Dashboard-UI
-Simple Dashboard UI with Side Nav bar and collapsible menu.
-
-### Software Requirement
-1. install node version > 10
-
-### Installation
-Execute command `yarn install` in root of the project to install dependencies.
 
 ### start project
 Execute command `yarn watch` in root of the project to start project. 
