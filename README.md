@@ -36,7 +36,7 @@ Excute below command inside root folder.
 
 ### start project
 Execute command `yarn watch` in root of the project to start project. 
-Apllication can be accesed in url http://localhost:8080/
+Application can be accesed in url http://localhost:8080/
 
 
 ### Library used
